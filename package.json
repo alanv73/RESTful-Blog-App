@@ -9,7 +9,7 @@
   "author": "Alan Van Art",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.4",
+    "body-parser": "^1.20.6",
     "ejs": "^3.1.10",
     "express": "^4.22.1",
     "express-sanitizer": "^1.0.6",
